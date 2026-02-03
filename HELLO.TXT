@@ -7,3 +7,4 @@ int main() {
     std::cout << "Initial Commit: Hello GitHub!" << std::endl;
     return 0;
 }
+// I have made these changes.
