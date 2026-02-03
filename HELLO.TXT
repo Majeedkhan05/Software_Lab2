@@ -1,0 +1,9 @@
+#include <iostream>
+
+/**
+ * @brief Simple program for GitHub Lab Assignment 2
+ */
+int main() {
+    std::cout << "Initial Commit: Hello GitHub!" << std::endl;
+    return 0;
+}
